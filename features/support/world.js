@@ -1,5 +1,4 @@
 var nightwatch = require('nightwatch');
-var Selenium = require('nightwatch/lib/runner/selenium.js');
 var config = require('../../nightwatch.json');
 
 //Expose Nightwatch to all cucumber features and hooks
